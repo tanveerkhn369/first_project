@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Binary Numbers</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bin_text">Binary BIN</string>
+    <string name="oct_text">Octal OCT</string>
+    <string name="dec_text">Decimal DEC</string>
+    <string name="hex_text">Hexadecimal HEX</string>
+
+    <string-array name="entry">
+        <item>BIN</item>
+        <item>OCT</item>
+        <item>DEC</item>
+        <item>HEX</item>
+    </string-array>
+    <!-- <string-array name="entry">
+        <item>Binary BIN</item>
+        <item>Octal OCT</item>
+        <item>Decimal DEC</item>
+        <item>Hexadecimal HEX</item>
+    </string-array>-->
+</resources>
